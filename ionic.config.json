@@ -1,0 +1,7 @@
+{
+  "name": "infiniteScroll-poc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
